@@ -1,6 +1,5 @@
 #include <HCSR04.h>
 
-//Motor driver pins
 #define ENA       3
 #define ABack     5
 #define AForward  7
