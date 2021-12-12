@@ -61,8 +61,8 @@ void loop()
   }
   else 
   {
-      balancingRf1 = 0;
-      balancingRf2 = 0;
+    balancingRf1 = 0;
+    balancingRf2 = 0;
   }
  
   if (distance < 35)
